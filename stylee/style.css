@@ -1,0 +1,44 @@
+.button1{
+    border: 1px solid darkcyan;
+    background-color: white;
+    color: darkcyan;
+    padding: 10px 15px 10px 15px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.button1:hover{ 
+    background-color: darkcyan;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button2{
+    border: 1px solid rgb(3, 255, 255);
+    background-color: white;
+    color: rgb(0, 100, 100);
+    padding: 10px 15px 10px 15px;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.button2:hover{ 
+    background-color: rgb(200, 0, 255);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button3{
+    border: 1px solid rgb(112, 89, 225);
+    background-color: white;
+    color: rgb(55, 37, 113);
+    padding: 10px 15px 10px 15px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.button3:hover{ 
+    background-color: rgb(55, 255, 5);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
